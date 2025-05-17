@@ -11,7 +11,7 @@ Este es un proyecto de ejemplo usando Express.js para Hackatec 2025.
 
 1. Clona el repositorio:
 ```bash
-git clone [URL_DEL_REPOSITORIO]
+git clone https://github.com/KiraBelak/example-express.git
 cd example-express
 ```
 
